@@ -7,7 +7,7 @@ Software Engineer
 I am in my final year of my degree at the UA, with only my final project left to complete, and next year I plan to do a Master's in Cybersecurity at the same university.
 
 * 🌍  I'm based in Spain
-* 🚀  I'm currently working on [PirateFlix](https://github.com/samuel2793/PirateFlix)
+* 🚀  I'm currently working on [PirateFlix](https://github.com/samuel2793/PirateFlix) and [ReadVault](https://github.com/samuel2793/ReadVault)
 * 🧠  I'm currently learning Cybersecurity with HTB and software development through personal projects
 * 👥  I'm looking to collaborate on Interesting projects
 * 💬  Ask me about: I love books and movies
